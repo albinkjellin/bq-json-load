@@ -1,0 +1,15 @@
+[
+  {
+    "customerid":"cust001",
+    "shippingaddress":"Ruddammsvagen 11"
+  },
+  {
+    "customerid":"cust002",
+    "shippingaddress":"Vasagatan 1"
+  },
+  {
+    "customerid":"cust003",
+    "shippingaddress":"Odengatan 22",
+    "newkey":"newvalue"
+  }
+]
